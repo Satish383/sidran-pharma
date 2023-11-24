@@ -77,6 +77,8 @@
                                 <nav>
                                     <ul id="navigation">
                                         <li><a class="active" href="/">home</a></li>
+                                        <li><a href="/about">About</a></li>
+                                        <li><a href="/why_us">Why Us ?</a></li>
                                         {{-- <li><a href="Department.html">services</a></li> --}}
                                         <li><a href="/services">services</a>
                                             <ul class="submenu" id="submenu_list_item">
@@ -113,7 +115,7 @@
                                                 <li><a href="/qualification_part">Qualification Part</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="/why_us">Why Us ?</a></li>
+                                        
                                         <li><a href="/consulting">Consulting</a>
                                             <ul class="submenu" id="submenu_list_item_2">
                                                 <li><a href="/compliance_pharma">Compliance Pharma</a></li>
@@ -126,7 +128,7 @@
                                                 <li><a href="/enterprises">Enterprises</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="/about">About</a></li>
+                                        
                                     </ul>
                                 </nav>
                             </div>

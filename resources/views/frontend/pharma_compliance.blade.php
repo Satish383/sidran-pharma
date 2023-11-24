@@ -181,7 +181,7 @@
                         <p>Esteem spirit temper too say adieus.</p>
                     </div>
                     <div class="info_button">
-                        <a href="#" class="boxed-btn3-white">+10 378 4673 467</a>
+                        <a href="#" class="boxed-btn3-white">+91 70416 - 26655</a>
                     </div>
                 </div>
             </div>
